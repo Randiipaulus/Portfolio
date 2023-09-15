@@ -6,12 +6,16 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongo"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/postman.png",
+                    "title": "Post"
+                },
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "spring"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -30,8 +34,8 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -44,12 +48,9 @@
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "Tools, Platforms & Markup language",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
+                
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
@@ -57,6 +58,22 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/intellij.png",
+                    "title": "intellij"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/vs.png",
+                    "title": "VS"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 }
             ]
     }

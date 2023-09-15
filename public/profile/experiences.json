@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Integrator",
+            "subtitle": "Teseoc LLC",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Integrated diverse software systems, optimizing data flow and reducing processing time by 20%.",
+                "Streamlined software integration processes, improving overall operational efficiency."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Stower",
+            "subtitle": "QVC",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Utilize advanced scanning and tracking technologies to optimize inventory management, significantly reducing stock discrepancies and improving overall efficiency."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "07/2022 – 05/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Customer Service",
+            "subtitle": "Morrison Healthcare",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Delivered compassionate and patient-centered care with strong communication and conflict resolution skills.", 
+                "Ensured compliance, efficient operations, and exceptional patient experiences in a fast-paced healthcare environment."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2020 – 05/2022"
         }
     ]
 }
